@@ -1,0 +1,16 @@
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\bin\Debug\Capa_vista.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\bin\Debug\Capa_vista.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Cierre.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Menu.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Reportes.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Traslado.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\bin\Debug\Capa_Controlador.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\bin\Debug\Capa_Controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\Capa_vista\obj\Debug\Capa_vista.Mov_inventa.resources
