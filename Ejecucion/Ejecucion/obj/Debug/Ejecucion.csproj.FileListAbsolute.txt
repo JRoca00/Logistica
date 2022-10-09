@@ -1,0 +1,12 @@
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\bin\Debug\VistaLogistica.dll
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\bin\Debug\VistaLogistica.pdb
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

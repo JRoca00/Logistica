@@ -1,0 +1,6 @@
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.dll
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.pdb
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.AssemblyReference.cache
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.CoreCompileInputs.cache
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.dll
+G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.pdb
