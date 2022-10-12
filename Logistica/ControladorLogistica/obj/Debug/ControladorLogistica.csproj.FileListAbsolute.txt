@@ -4,3 +4,9 @@ G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogi
 G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.CoreCompileInputs.cache
 G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.dll
 G:\Analisis 2\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\bin\Debug\ControladorLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\ControladorLogistica\obj\Debug\ControladorLogistica.pdb

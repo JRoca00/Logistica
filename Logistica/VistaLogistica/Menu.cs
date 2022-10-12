@@ -9,13 +9,44 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace VistaLogistica
+
 {
+    
+
     public partial class Menu : Form
     {
+
+        Capa_controlador.Controlador cnseg = new Capa_controlador.Controlador();
+
+
         public Menu()
         {
             InitializeComponent();
             customizeDesing();
+
+            Button[] apps = { btnMarca, btnLinea, btnBodegas, btnProductos, btntrans_porte, btnRuta, btnConductor, btnExistenciaBodegas, btnLotes, btnEnvios, btnMovimientos, btnInventario, btseguridadsegundo, btrayuda };
+            cnseg.deshabilitarApps(apps);
+
+            cnseg.getAccesoApp(1001, apps[0]);
+            cnseg.getAccesoApp(1002, apps[1]);
+            cnseg.getAccesoApp(1003, apps[2]);
+            cnseg.getAccesoApp(1004, apps[3]);
+            cnseg.getAccesoApp(1005, apps[4]);
+            cnseg.getAccesoApp(1006, apps[5]);
+            cnseg.getAccesoApp(1007, apps[6]);
+
+
+            cnseg.getAccesoApp(1101, apps[7]);
+            cnseg.getAccesoApp(1102, apps[8]);
+            cnseg.getAccesoApp(1103, apps[9]);
+
+            cnseg.getAccesoApp(1101, apps[10]);
+            cnseg.getAccesoApp(1202, apps[11]);
+
+            cnseg.getAccesoApp(1301, apps[12]);
+
+            cnseg.getAccesoApp(1401, apps[13]);
+
         }
         private void customizeDesing()
         {
@@ -167,12 +198,14 @@ namespace VistaLogistica
 
         private void btrayuda_Click(object sender, EventArgs e)
         {
-          
+            prueba b = new prueba();
+            b.MdiParent = this;
+            b.Show();
         }
 
         private void Menu_Load_1(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Maximized;
+            //this.WindowState = FormWindowState.Maximized;
         }
 
         private void btnProductos_Click(object sender, EventArgs e)

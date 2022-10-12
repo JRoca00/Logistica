@@ -10,3 +10,26 @@ G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompi
 G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
 G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
 G:\Analisis 2\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\VistaLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\VistaLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Capa_controlador.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Modelo.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Capa_controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\Modelo.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb

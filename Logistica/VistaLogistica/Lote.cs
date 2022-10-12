@@ -21,5 +21,10 @@ namespace VistaLogistica
         {
             this.Close();
         }
+
+        private void Lote_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

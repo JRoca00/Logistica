@@ -62,5 +62,10 @@ namespace VistaLogistica
             this.Close();
             mn.pictureBox2.Show();
         }
+
+        private void Marca_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

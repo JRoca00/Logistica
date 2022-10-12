@@ -22,3 +22,38 @@ G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Produc
 G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Envio.resources
 G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Movimientos.resources
 G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Inventario.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\VistaLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\VistaLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Capa_controlador.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\ControladorLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Modelo.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Capa_controlador.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\ControladorLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Modelo.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.AssemblyReference.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Bodega.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Conductor.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Envio.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.ExistenciaBodega.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Inventario.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Linea.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Lote.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Marca.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Menu.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Movimientos.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Producto.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Properties.Resources.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Ruta.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Transporte.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.GenerateResource.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.CoreCompileInputs.cache
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.csproj.CopyComplete
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorControlador.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorModelo.dll
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorVista.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorControlador.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorModelo.pdb
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.prueba.resources
