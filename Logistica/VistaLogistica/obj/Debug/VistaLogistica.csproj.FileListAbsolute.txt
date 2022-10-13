@@ -24,7 +24,6 @@ G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Movimi
 G:\Analisis 2\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.Inventario.resources
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\VistaLogistica.dll
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\VistaLogistica.pdb
-C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Capa_controlador.dll
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\ControladorLogistica.dll
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Modelo.dll
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Capa_controlador.pdb
@@ -57,3 +56,4 @@ C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Nav
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorControlador.pdb
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorModelo.pdb
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.prueba.resources
+C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorVista.dll

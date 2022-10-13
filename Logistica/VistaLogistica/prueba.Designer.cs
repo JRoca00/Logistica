@@ -149,7 +149,7 @@ namespace VistaLogistica
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(1020, 247);
             this.dataGridView1.TabIndex = 30;
-            this.dataGridView1.Tag = "empleados";
+            this.dataGridView1.Tag = "tbl_marca";
             // 
             // navegador1
             // 

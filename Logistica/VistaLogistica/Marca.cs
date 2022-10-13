@@ -67,5 +67,17 @@ namespace VistaLogistica
         {
 
         }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+            NavegadorVista.Navegador.idApp = "1001";
+            TextBox[] Grupotextbox = { txtBuscar, txtMarca };
+            TextBox[] Idtextbox = { txtBuscar, txtMarca };
+            navegador1.textbox = Grupotextbox;
+            navegador1.tabla = dtgMarca;
+            navegador1.textboxi = Idtextbox;
+            navegador1.actual = this;
+            navegador1.cargar(dtgMarca, Grupotextbox, "bd_logistica");
+        }
     }
 }

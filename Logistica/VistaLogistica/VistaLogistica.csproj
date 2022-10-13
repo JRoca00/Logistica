@@ -37,8 +37,9 @@
     <Reference Include="ControladorLogistica">
       <HintPath>..\ControladorLogistica\bin\Debug\ControladorLogistica.dll</HintPath>
     </Reference>
-    <Reference Include="NavegadorVista">
-      <HintPath>..\..\..\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll</HintPath>
+    <Reference Include="NavegadorVista, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\proyectofinalasis222022-PrototipoFuncional\proyectofinalasis222022-PrototipoFuncional\Codigo\Componentes\Navegador\Vista\bin\Debug\NavegadorVista.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
