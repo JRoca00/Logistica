@@ -27,25 +27,25 @@ namespace VistaLogistica
             Button[] apps = { btnMarca, btnLinea, btnBodegas, btnProductos, btntrans_porte, btnRuta, btnConductor, btnExistenciaBodegas, btnLotes, btnEnvios, btnMovimientos, btnInventario, btseguridadsegundo, btrayuda };
             cnseg.deshabilitarApps(apps);
 
-            cnseg.getAccesoApp(1001, apps[0]);
-            cnseg.getAccesoApp(1002, apps[1]);
-            cnseg.getAccesoApp(1003, apps[2]);
-            cnseg.getAccesoApp(1004, apps[3]);
-            cnseg.getAccesoApp(1005, apps[4]);
-            cnseg.getAccesoApp(1006, apps[5]);
-            cnseg.getAccesoApp(1007, apps[6]);
+            cnseg.getAccesoApp(2001, apps[0]);
+            cnseg.getAccesoApp(2002, apps[1]);
+            cnseg.getAccesoApp(2003, apps[2]);
+            cnseg.getAccesoApp(2004, apps[3]);
+            cnseg.getAccesoApp(2005, apps[4]);
+            cnseg.getAccesoApp(2006, apps[5]);
+            cnseg.getAccesoApp(2007, apps[6]);
 
 
-            cnseg.getAccesoApp(1101, apps[7]);
-            cnseg.getAccesoApp(1102, apps[8]);
-            cnseg.getAccesoApp(1103, apps[9]);
+            cnseg.getAccesoApp(2101, apps[7]);
+            cnseg.getAccesoApp(2102, apps[8]);
+            cnseg.getAccesoApp(2103, apps[9]);
 
-            cnseg.getAccesoApp(1101, apps[10]);
-            cnseg.getAccesoApp(1202, apps[11]);
+            cnseg.getAccesoApp(2201, apps[10]);
+            cnseg.getAccesoApp(2202, apps[11]);
 
-            cnseg.getAccesoApp(1301, apps[12]);
+            cnseg.getAccesoApp(2301, apps[12]);
 
-            cnseg.getAccesoApp(1401, apps[13]);
+            cnseg.getAccesoApp(2401, apps[13]);
 
         }
         private void customizeDesing()

@@ -70,7 +70,7 @@ namespace VistaLogistica
 
         private void navegador1_Load(object sender, EventArgs e)
         {
-            NavegadorVista.Navegador.idApp = "1001";
+            NavegadorVista.Navegador.idApp = "2001";
             TextBox[] Grupotextbox = { txtBuscar, txtMarca };
             TextBox[] Idtextbox = { txtBuscar, txtMarca };
             navegador1.textbox = Grupotextbox;

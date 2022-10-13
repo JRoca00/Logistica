@@ -56,4 +56,3 @@ C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\Nav
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorControlador.pdb
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorModelo.pdb
 C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\obj\Debug\VistaLogistica.prueba.resources
-C:\Users\marro\OneDrive\Desktop\Logistica\Logistica\VistaLogistica\bin\Debug\NavegadorVista.dll
